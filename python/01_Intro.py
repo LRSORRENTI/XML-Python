@@ -8,4 +8,4 @@ parser = xml.sax.make_parser()
 # Third set the content handler to the handler:
 parser.setContentHandler(handler)
 # Then pass in the xml file to parser.parse:
-parser.parse('people.xml')
+parser.parse('XML/people.xml')
