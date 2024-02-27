@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><group>
+    <person id="200" newattr="Hello world">
+        <name>Alex Warm</name>
+        <age>20</age>
+        <weight>80</weight>
+        <height>180</height>
+    </person>
+    <person id="2">
+        <name>Mike Davis</name>
+        <age>45</age>
+        <weight>82</weight>
+        <height>185</height>
+    </person>
+    <person id="3">
+        <name>Anna Johnson</name>
+        <age>33</age>
+        <weight>67</weight>
+        <height>167</height>
+    </person>
+</group>
