@@ -1,4 +1,5 @@
-<?xml version="1.0" ?><group>
+<?xml version="1.0" ?>
+<group>
     <person id="200" newattr="Hello world">
         <name>Alex Warm</name>
         <age>20</age>

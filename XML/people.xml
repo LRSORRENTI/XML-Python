@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<group>
+<group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="people.xsd">
     <person id="1">
         <name>Jennifer Cold</name>
         <age>20</age>

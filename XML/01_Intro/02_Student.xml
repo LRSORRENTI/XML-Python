@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="02_Student.xsd">
+    <student>
+        <firstname>
+           Alex 
+        </firstname>
+        <lastname>
+            Bell
+        </lastname>
+        <age>
+            20
+        </age>
+    </student>
+    <student>
+        <firstname>
+           Martha 
+        </firstname>
+        <lastname>
+            Rockwell
+        </lastname>
+        <age>
+            19
+        </age>
+    </student>
+    <student>
+        <firstname>
+           Stephen
+        </firstname>
+        <lastname>
+            Gort
+        </lastname>
+        <age>
+            22
+        </age>
+    </student>
+    <subject>
+        Mathematics
+    </subject>
+    <hour>
+        11
+    </hour>
+</class>

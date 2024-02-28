@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="01_Price.xsd">
+    <food>
+        <item name="breakfast">
+            Eggs
+        </item>
+        <price>
+            $2
+        </price>
+        <description>
+            Farm raised eggs
+        </description>
+        <calories>
+            100
+        </calories>
+    </food>
+    <food>
+        <item name="breakfast">
+            Belgian Waffles
+        </item>
+        <price>
+            $4
+        </price>
+        <description>
+            Syrup and butter waffles
+        </description>
+        <calories>
+            400
+        </calories>
+    </food>
+    <food>
+        <item name="breakfast">
+            Oatmeal
+        </item>
+        <price>
+            $1.50
+        </price>
+        <description>
+            Oats and honey
+        </description>
+        <calories>
+            240
+        </calories>
+    </food>
+</metadata>
